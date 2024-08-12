@@ -1,3 +1,7 @@
+"use client" //vira um client component
+
+
+
 import Image from "next/image";
 
 export default function Home() {
