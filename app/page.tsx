@@ -20,7 +20,7 @@ const Home = async () => {
 
   return (
     <div>
-      {/* Header */}
+      {/* HEADER */}
       <Header />
       <div className="p-5">
         {/* TEXTO */}
